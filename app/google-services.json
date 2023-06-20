@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078298932864",
+    "project_id": "eeccoomm",
+    "storage_bucket": "eeccoomm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078298932864:android:0be728986206525dcfd865",
+        "android_client_info": {
+          "package_name": "com.example.eeccoomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078298932864-kp14p2gacej5imiuvf0ilkbqo51ron6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjVOsdLU_mL0mDUjXIy6P4KnErVPcCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078298932864-kp14p2gacej5imiuvf0ilkbqo51ron6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
